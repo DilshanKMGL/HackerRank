@@ -29,6 +29,4 @@ int main(void)
 	vector<int> a = { 1,2,2,1 };
 	vector<int> b = { 3,10,50,4 };
 	twoArrays(k, a, b);
-
-	// [1,2,3,1,4,3,2,1,1]
 }
